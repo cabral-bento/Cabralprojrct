@@ -103,5 +103,5 @@ Preço (price)
 
 Marca, modelo e outras características dos veículos
 
-README.md link(acesso ao aplicativo):
+README.md link (acesso ao aplicativo):
 https://cabralprojrct-1.onrender.com
